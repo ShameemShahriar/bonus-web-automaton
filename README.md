@@ -18,7 +18,7 @@ JavaScript, Playwright
 ## Project Structure
 
 ```text
-automation-exercise-playwright/
+bonus-web-automation/
 │
 ├── tests/
 │   └── login.spec.js
@@ -39,7 +39,7 @@ Node.js, npm
 
 ```bash
 git clone https://github.com/ShameemShahriar/bonus-web-automaton.git
-cd automation-exercise-playwright
+cd bonus-web-automation
 npm install
 npx playwright install
 npx playwright test
